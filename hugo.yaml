@@ -1,4 +1,4 @@
-baseURL: "https://andrewpro.github.io/ashutov/"
+baseURL: "https://ashutov.com/"
 title: Andrew Shutov
 # pagination:
 #   pagerSize: 10
@@ -11,66 +11,79 @@ minify:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: ExampleSite
-  description: "ExampleSite description"
+  title: Andrew Shutov's Personal Site
+  description: "You can find here everything about me, the projects I am working on, and the things I am passionate about."
   keywords: [Blog, Portfolio, PaperMod]
-  author: Me
+  author: Andrew Shutov
   # author: ["Me", "You"] # multiple authors
+  # TODO add image here 
   images: ["<link or path of image for opengraph, twitter-cards>"]
   DateFormat: "January 2, 2006"
   defaultTheme: auto # dark, light
   disableThemeToggle: false
+  # footer: "Your custom footer text here"
 
 
   assets:
     # disableHLJS: true # to disable highlight.js
     # disableFingerprinting: true
-    favicon: "<link / abs url>"
-    favicon16x16: "<link / abs url>"
-    favicon32x32: "<link / abs url>"
-    apple_touch_icon: "<link / abs url>"
-    safari_pinned_tab: "<link / abs url>"
+    favicon: "/favicon/favicon.ico"
+    favicon16x16: "/favicon/favicon-16x16.png"
+    favicon32x32: "/favicon/favicon-32x32.png"
+    apple_touch_icon: "/favicon/apple-touch-icon.png"
 
   label:
-    text: "Home"
+    text: "A_Shutov"
     icon: /apple-touch-icon.png
     iconHeight: 35
 
 
   # home-info mode
   homeInfoParams:
-    Title: "Hi there \U0001F44B"
-    Content: Welcome to my blog
+    Title: "Andrew Shutov "
+    Content: "Hello World, I am Andrew Shutov, a software engineer and a passionate runner. I love to write about my experiences and share my knowledge with the world. "
+    imageUrl: "icons/face_icon_c.png"
+    imageWidth: 200
+    imageHeight: 200
+    imageTitle: Thats Me! :D
 
   socialIcons:
-    - name: x
-      url: "https://x.com/"
-    - name: stackoverflow
-      url: "https://stackoverflow.com"
+    - name: strava
+      url: "https://www.strava.com/athletes/77803298"
     - name: github
-      url: "https://github.com/"
+      url: "https://github.com/AndrewPro"
+    - name: linkedin
+      url: "https://www.linkedin.com/in/andrew-shutov-016131211/"
+    - name: email
+      url: "1254692312alex@gmail.com"
+    - name: instagram
+      url: "https://www.instagram.com/andrew_sh__"
 
-  cover:
-    hidden: true # hide everywhere but not in structured data
-    hiddenInList: true # hide on list pages and home
-    hiddenInSingle: true # hide on single page
+  # cover:
+  #   hidden: true # hide everywhere but not in structured data
+  #   hiddenInList: true # hide on list pages and home
+  #   hiddenInSingle: true # hide on single page
 
-  editPost:
-    URL: "https://github.com/<path_to_repo>/content"
-    Text: "Suggest Changes" # edit text
-    appendFilePath: true # to append file path to Edit link
+  # editPost:
+  #   URL: "https://github.com/<path_to_repo>/content"
+  #   Text: "Suggest Changes" # edit text
+  #   appendFilePath: true # to append file path to Edit link
 
 menu:
   main:
-    - identifier: categories
-      name: categories
-      url: /categories/
-      weight: 10
+    - identifier: resmue
+      name: resmue
+      url: posts/resmue
+      weight: 1
+    - identifier: about_me
+      name: about me
+      url: posts/about
+      weight: 2
     - identifier: tags
       name: tags
       url: /tags/
-      weight: 20
-    - identifier: example
-      name: example.org
-      url: https://example.org
-      weight: 30
+      weight: 3
+    - identifier: archives
+      name: archives
+      url: archives
+      weight: 4
