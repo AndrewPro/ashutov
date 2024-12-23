@@ -28,7 +28,7 @@ cd public
 # Add and commit changes in the 'public' repository (gh-pages branch)
 echo -e "${YELLOW}Committing changes in the 'gh-pages' branch...${NC}"
 git add .
-git commit -m "Update GitHub Pages" || echo "No changes to commit in gh-pages branch."
+git commit -m "Update GitHub Pages" || echo -e "${RED}No changes to commit in gh-pages branch.${NC}"
 
 # Push the changes to the 'gh-pages' branch
 echo -e "${GREEN}Pushing changes to the 'gh-pages' branch...${NC}"
