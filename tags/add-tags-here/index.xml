@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Andrew Shutov</title>
-    <link>https://ashutov.com/</link>
-    <description>Recent content on Andrew Shutov</description>
+    <title>Add Tags Here on Andrew Shutov</title>
+    <link>https://ashutov.com/tags/add-tags-here/</link>
+    <description>Recent content in Add Tags Here on Andrew Shutov</description>
     <image>
       <title>Andrew Shutov</title>
       <url>https://ashutov.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
@@ -12,7 +12,7 @@
     <generator>Hugo -- 0.140.0</generator>
     <language>en</language>
     <lastBuildDate>Mon, 23 Dec 2024 13:02:11 -0800</lastBuildDate>
-    <atom:link href="https://ashutov.com/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://ashutov.com/tags/add-tags-here/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>First_post</title>
       <link>https://ashutov.com/posts/first_post/</link>

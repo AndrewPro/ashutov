@@ -2,10 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://andrewpro.github.io/ashutov/</loc>
+    <loc>https://ashutov.com/tags/add-tags-here/</loc>
+    <lastmod>2024-12-23T13:02:11-08:00</lastmod>
   </url><url>
-    <loc>https://andrewpro.github.io/ashutov/categories/</loc>
+    <loc>https://ashutov.com/</loc>
+    <lastmod>2024-12-23T13:02:11-08:00</lastmod>
   </url><url>
-    <loc>https://andrewpro.github.io/ashutov/tags/</loc>
+    <loc>https://ashutov.com/posts/first_post/</loc>
+    <lastmod>2024-12-23T13:02:11-08:00</lastmod>
+  </url><url>
+    <loc>https://ashutov.com/posts/</loc>
+    <lastmod>2024-12-23T13:02:11-08:00</lastmod>
+  </url><url>
+    <loc>https://ashutov.com/tags/</loc>
+    <lastmod>2024-12-23T13:02:11-08:00</lastmod>
+  </url><url>
+    <loc>https://ashutov.com/archives/</loc>
+  </url><url>
+    <loc>https://ashutov.com/categories/</loc>
   </url>
 </urlset>
