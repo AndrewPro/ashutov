@@ -10,6 +10,8 @@ minify:
   minifyOutput: true
 
 params:
+  mainSections: ["featured"]
+
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: Andrew Shutov's Personal Site
   description: "You can find here everything about me, the projects I am working on, and the things I am passionate about."
@@ -21,7 +23,25 @@ params:
   DateFormat: "January 2, 2006"
   defaultTheme: auto # dark, light
   disableThemeToggle: false
-  # footer: "Your custom footer text here"
+
+  # Feature Toggles
+  ShowReadingTime: false
+  ShowShareButtons: false
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: false
+  ShowCodeCopyButtons: true
+  ShowWordCount: false
+  ShowRssButtonInSectionTermList: false
+  showToc: false
+  # Table Of Contents
+  UseHugoToc: false
+  # Disables special styling for the first post on the homepage.
+  disableSpecial1stPost: false
+  disableScrollToTop: false
+  comments: false
+  hidemeta: false
+  hideSummary: false
+  tocopen: false
 
 
   assets:
