@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>HomeLab on Andrew Shutov</title>
+    <link>https://ashutov.com/tags/homelab/</link>
+    <description>Recent content in HomeLab on Andrew Shutov</description>
+    <image>
+      <title>Andrew Shutov</title>
+      <url>https://ashutov.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://ashutov.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.140.0</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 23 Dec 2024 13:59:23 -0800</lastBuildDate>
+    <atom:link href="https://ashutov.com/tags/homelab/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hugo</title>
+      <link>https://ashutov.com/featured/hugo/</link>
+      <pubDate>Mon, 23 Dec 2024 13:59:23 -0800</pubDate>
+      <guid>https://ashutov.com/featured/hugo/</guid>
+      <description>Desc Text.</description>
+    </item>
+  </channel>
+</rss>
