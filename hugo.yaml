@@ -1,5 +1,5 @@
 baseURL: "https://ashutov.com/"
-title: Andrew Shutov
+title: A_Shutov
 # pagination:
 #   pagerSize: 10
 theme: PaperMod
@@ -19,7 +19,7 @@ params:
   author: Andrew Shutov
   # author: ["Me", "You"] # multiple authors
   # TODO add image here 
-  images: ["<link or path of image for opengraph, twitter-cards>"]
+  images: ["icons/love_icon.jpg"]
   DateFormat: "January 2, 2006"
   defaultTheme: auto # dark, light
   disableThemeToggle: false
@@ -62,7 +62,7 @@ params:
   homeInfoParams:
     Title: "Andrew Shutov "
     Content: "Hello World, I am Andrew Shutov, a software engineer and a passionate runner. I love to write about my experiences and share my knowledge with the world. "
-    imageUrl: "icons/face_icon_c.png"
+    imageUrl: "icons/face3_c.png"
     imageWidth: 200
     imageHeight: 200
     imageTitle: Thats Me! :D
