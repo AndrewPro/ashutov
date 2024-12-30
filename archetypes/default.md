@@ -1,6 +1,7 @@
 ---
 title: "{{ replace .File.ContentBaseName "-" " " | title }}"
 date: "{{ .Date }}"
+comments: false
 tags:
   - Add Tags Here
 description: Desc Text.

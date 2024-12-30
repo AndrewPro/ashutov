@@ -1,7 +1,7 @@
 ---
 title: "About Me"
 date: "2024-12-23T14:02:31-08:00"
-
+comments: true
 # description: Desc Text.
 cover:
     image: "<image path/url>" # image path/url
