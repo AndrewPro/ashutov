@@ -24,6 +24,9 @@ hugo
 # Navigate to the 'public' directory
 cd public
 
+# Create a CNAME file with the content "ashutov.com"
+echo -e "${BLUE}Creating CNAME file...${NC}"
+echo "ashutov.com" > CNAME
 
 # Add and commit changes in the 'public' repository (gh-pages branch)
 echo -e "${YELLOW}Committing changes in the 'gh-pages' branch...${NC}"
