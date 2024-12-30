@@ -2,50 +2,50 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Add Tags Here on AShutov</title>
-    <link>http://localhost:1313/tags/add-tags-here/</link>
+    <link>https://ashutov.com/tags/add-tags-here/</link>
     <description>Recent content in Add Tags Here on AShutov</description>
     <image>
       <title>AShutov</title>
-      <url>http://localhost:1313/icons/love_icon.jpg</url>
-      <link>http://localhost:1313/icons/love_icon.jpg</link>
+      <url>https://ashutov.com/icons/love_icon.jpg</url>
+      <link>https://ashutov.com/icons/love_icon.jpg</link>
     </image>
     <generator>Hugo -- 0.140.0</generator>
     <language>en</language>
     <lastBuildDate>Mon, 30 Dec 2024 02:50:17 -0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/add-tags-here/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://ashutov.com/tags/add-tags-here/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>HomeLab</title>
-      <link>http://localhost:1313/homelab/homelab/</link>
+      <link>https://ashutov.com/homelab/homelab/</link>
       <pubDate>Mon, 30 Dec 2024 02:50:17 -0800</pubDate>
-      <guid>http://localhost:1313/homelab/homelab/</guid>
+      <guid>https://ashutov.com/homelab/homelab/</guid>
       <description>Desc Text.</description>
     </item>
     <item>
       <title>China_hackathon</title>
-      <link>http://localhost:1313/featured/china_hackathon/</link>
+      <link>https://ashutov.com/featured/china_hackathon/</link>
       <pubDate>Mon, 23 Dec 2024 14:11:16 -0800</pubDate>
-      <guid>http://localhost:1313/featured/china_hackathon/</guid>
+      <guid>https://ashutov.com/featured/china_hackathon/</guid>
       <description>Desc Text.</description>
     </item>
     <item>
       <title>Resume</title>
-      <link>http://localhost:1313/featured/resume/</link>
+      <link>https://ashutov.com/featured/resume/</link>
       <pubDate>Mon, 23 Dec 2024 14:02:47 -0800</pubDate>
-      <guid>http://localhost:1313/featured/resume/</guid>
+      <guid>https://ashutov.com/featured/resume/</guid>
       <description>Desc Text.</description>
     </item>
     <item>
       <title>Second_post</title>
-      <link>http://localhost:1313/posts/second_post/</link>
+      <link>https://ashutov.com/posts/second_post/</link>
       <pubDate>Mon, 23 Dec 2024 13:26:55 -0800</pubDate>
-      <guid>http://localhost:1313/posts/second_post/</guid>
+      <guid>https://ashutov.com/posts/second_post/</guid>
       <description>Desc Text.</description>
     </item>
     <item>
       <title>First_post</title>
-      <link>http://localhost:1313/posts/first_post/</link>
+      <link>https://ashutov.com/posts/first_post/</link>
       <pubDate>Mon, 23 Dec 2024 13:02:11 -0800</pubDate>
-      <guid>http://localhost:1313/posts/first_post/</guid>
+      <guid>https://ashutov.com/posts/first_post/</guid>
       <description>Desc Text.</description>
     </item>
   </channel>
