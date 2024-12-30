@@ -1,5 +1,8 @@
-baseURL: "https://ashutov.com/"
-title: A_Shutov
+# baseURL: "https://ashutov.com/"
+baseURL: "http://localhost:1313/"
+
+
+title: "AShutov"
 # pagination:
 #   pagerSize: 10
 theme: PaperMod
@@ -11,6 +14,7 @@ minify:
 
 params:
   mainSections: ["featured"]
+  # mainSections: ["featured", "posts", "projects"]
 
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: Andrew Shutov's Personal Site
@@ -53,7 +57,7 @@ params:
     apple_touch_icon: "/favicon/apple-touch-icon.png"
 
   label:
-    text: "A_Shutov"
+    text: "@Shutov"
     icon: /apple-touch-icon.png
     iconHeight: 35
 
@@ -61,7 +65,7 @@ params:
   # home-info mode
   homeInfoParams:
     Title: "Andrew Shutov "
-    Content: "Hello World, I am Andrew Shutov, a software engineer and a passionate runner. I love to write about my experiences and share my knowledge with the world. "
+    Content: "Hello, world! I'm Andrew Shutov, a technology enthusiast with a passion for Linux and home labs. Beyond tech, I enjoy playing the saxophone, exploring the outdoors, and deepening my relationship with God."
     imageUrl: "icons/face3_c.png"
     imageWidth: 200
     imageHeight: 200
@@ -75,9 +79,11 @@ params:
     - name: linkedin
       url: "https://www.linkedin.com/in/andrew-shutov-016131211/"
     - name: email
-      url: "1254692312alex@gmail.com"
+      url: "andrew@shutov.com"
     - name: instagram
       url: "https://www.instagram.com/andrew_sh__"
+
+
 
   # cover:
   #   hidden: true # hide everywhere but not in structured data
@@ -93,11 +99,11 @@ menu:
   main:
     - identifier: resmue
       name: resmue
-      url: posts/resmue
+      url: featured/resume
       weight: 1
     - identifier: about_me
       name: about me
-      url: posts/about
+      url: featured/about
       weight: 2
     - identifier: tags
       name: tags
@@ -107,3 +113,10 @@ menu:
       name: archives
       url: archives
       weight: 4
+
+# module:
+#   mounts:
+#     - source: "static"
+#       target: "static"
+#     - source: "images"
+#       target: "static/images"

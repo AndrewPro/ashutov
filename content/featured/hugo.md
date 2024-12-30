@@ -3,7 +3,7 @@ title: "Hugo"
 date: "2024-12-23T13:59:23-08:00"
 tags:
   - HomeLab
-description: Desc Text.
+description: "How I made this website"
 cover:
     image: "<image path/url>" # image path/url
     alt: "<alt text>" # alt text
@@ -11,6 +11,14 @@ cover:
     relative: false # when using page bundles set this to true
     hidden: true # only hide on current single page
 ---
+
+In this article I will share how I created this website. I used a static website builder called hugo. This is a powerful tool because it converts markdown text into html code. 
+
+With Hugo, making posts is much easier, since all you need to do is write in markdown and it takes care of the rest. 
+
+But before we get there, we need to learn how to use this program and configure your first webpage.
+
+
 This site is Powered by [Hugo](https://gohugo.io/) & [PaperMod](https://github.com/adityatelange/hugo-PaperMod/)
 
 # Recreating My Site
