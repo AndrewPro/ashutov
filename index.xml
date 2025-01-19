@@ -25,7 +25,13 @@
       <link>https://ashutov.com/featured/homelab/</link>
       <pubDate>Mon, 30 Dec 2024 02:50:17 -0800</pubDate>
       <guid>https://ashutov.com/featured/homelab/</guid>
-      <description>Desc Text.</description>
+      <description>&lt;h1 id=&#34;how-to-get-a-home-lab&#34;&gt;How to get a home lab?&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Making a homle lab is very simple. All you need is some hardware connected to the internet and running some services.&lt;/li&gt;
+&lt;li&gt;There are many sefull videos you can find about this topic and how to start your very own home lab. You can check out the youtube channels mentiond here [[Youtube Blog Post]]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;docker-containers&#34;&gt;Docker containers&lt;/h1&gt;
+&lt;p&gt;Docker containers are like virtual mashines but share the same binarys, they just create a new enviroment for the program. &lt;a href=&#34;https://www.youtube.com/watch?v=Gjnup-PuquQ&#34;&gt;Here is a yt video.&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Working_with_hugo</title>
