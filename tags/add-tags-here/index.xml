@@ -15,23 +15,23 @@
     <atom:link href="https://ashutov.com/tags/add-tags-here/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>HomeLab</title>
-      <link>https://ashutov.com/homelab/homelab/</link>
+      <link>https://ashutov.com/featured/homelab/</link>
       <pubDate>Mon, 30 Dec 2024 02:50:17 -0800</pubDate>
-      <guid>https://ashutov.com/homelab/homelab/</guid>
+      <guid>https://ashutov.com/featured/homelab/</guid>
       <description>Desc Text.</description>
     </item>
     <item>
       <title>China_hackathon</title>
-      <link>https://ashutov.com/featured/china_hackathon/</link>
+      <link>https://ashutov.com/posts/china_hackathon/</link>
       <pubDate>Mon, 23 Dec 2024 14:11:16 -0800</pubDate>
-      <guid>https://ashutov.com/featured/china_hackathon/</guid>
+      <guid>https://ashutov.com/posts/china_hackathon/</guid>
       <description>Desc Text.</description>
     </item>
     <item>
       <title>Resume</title>
-      <link>https://ashutov.com/featured/resume/</link>
+      <link>https://ashutov.com/posts/resume/</link>
       <pubDate>Mon, 23 Dec 2024 14:02:47 -0800</pubDate>
-      <guid>https://ashutov.com/featured/resume/</guid>
+      <guid>https://ashutov.com/posts/resume/</guid>
       <description>Desc Text.</description>
     </item>
     <item>
