@@ -2,7 +2,7 @@
 title: "Hugo"
 date: "2024-12-23T13:59:23-08:00"
 tags:
-  - HomeLab
+  - "HomeLab"
 description: "How I made this website"
 cover:
     image: "<image path/url>" # image path/url

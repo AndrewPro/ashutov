@@ -15,7 +15,6 @@ cover:
 
 {{< figure src="static/icons/face3_c.png" attr="lolp" align=center link="" target="" >}}
 
-![asd](saxaphone_icon.jpg)
 
 ![Alt Text](/icons/saxaphone_icon.jpg)
 
