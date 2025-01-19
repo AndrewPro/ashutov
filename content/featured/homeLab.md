@@ -2,10 +2,9 @@
 title: "HomeLab"
 date: "2024-12-30T02:50:17-08:00"
 tags:
-  - Add Tags Here
-description: Desc Text.
+  - "HomeLab"
 cover:
-    image: "<image path/url>" # image path/url
+    image: "/posts/hikeingSelfe.png" # image path/url
     alt: "<alt text>" # alt text
     caption: "<text>" # display caption under cover
     relative: false # when using page bundles set this to true
@@ -18,7 +17,8 @@ cover:
 
 # Docker containers
 Docker containers are like virtual mashines but share the same binarys, they just create a new enviroment for the program. [Here is a yt video.](https://www.youtube.com/watch?v=Gjnup-PuquQ)
-![[Pasted image 20250118214745.png]]
+
+![alt text](/posts/dockerls.png)
 
 {{< youtube Gjnup-PuquQ >}}
 
@@ -42,7 +42,7 @@ Here is a list of the docker containers I am currently running at the moment
 - [traefik](https://traefik.io/traefik/)
 	- The Cloud Native Application Proxy
 
-![[Pasted image 20250118214822.png]]
+![alt text](/posts/portainer.png)
 
 
 **Here are some more docker containers that currently needs some configuring**
@@ -62,3 +62,5 @@ If you are intrested check out [Proxmox](https://www.proxmox.com/en/)!
 
 **[Wikipedia](https://en.wikipedia.org/wiki/Proxmox_Virtual_Environment)**
 deployment and management of virtual machines and containers.
+
+{{< youtube sZcOlW-DwrU >}}
