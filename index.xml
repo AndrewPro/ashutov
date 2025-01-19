@@ -11,8 +11,15 @@
     </image>
     <generator>Hugo -- 0.140.0</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 30 Dec 2024 02:50:17 -0800</lastBuildDate>
+    <lastBuildDate>Sat, 18 Jan 2025 20:34:31 -0800</lastBuildDate>
     <atom:link href="https://ashutov.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Youtube</title>
+      <link>https://ashutov.com/youtube/</link>
+      <pubDate>Sat, 18 Jan 2025 20:34:31 -0800</pubDate>
+      <guid>https://ashutov.com/youtube/</guid>
+      <description>Here are some youtube channels I follow at the moment!</description>
+    </item>
     <item>
       <title>HomeLab</title>
       <link>https://ashutov.com/homelab/homelab/</link>
