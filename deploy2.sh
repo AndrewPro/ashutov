@@ -10,11 +10,13 @@ BLUE='\033[0;34m'
 RED='\033[0;31m'
 NC='\033[0m' # No Color
 
+# Check if a commit message was provided, otherwise set a default message
+COMMIT_MESSAGE=${1:-"Update site"}
 
 # Commit changes in the root repository (main branch)
 echo -e "${YELLOW}1. Committing changes in the root repository...${NC}"
 git add .
-git commit -m "Update main branch" || echo -e "${RED}No changes to commit in main branch.${NC}"
+git commit -m "$COMMIT_MESSAGE" || echo -e "${RED}No changes to commit in main branch.${NC}"
 git push origin main
 
 # Build the static site into the 'public' folder
@@ -31,7 +33,7 @@ echo "ashutov.com" > CNAME
 # Add and commit changes in the 'public' repository (gh-pages branch)
 echo -e "${YELLOW}Committing changes in the 'gh-pages' branch...${NC}"
 git add .
-git commit -m "Update GitHub Pages" || echo -e "${RED}No changes to commit in gh-pages branch.${NC}"
+git commit -m "$COMMIT_MESSAGE" || echo -e "${RED}No changes to commit in gh-pages branch.${NC}"
 
 # Push the changes to the 'gh-pages' branch
 echo -e "${GREEN}Pushing changes to the 'gh-pages' branch...${NC}"

@@ -1,0 +1,15 @@
+@keyframes blink {
+    0%, 49% {
+        opacity: 0;
+    }
+    50%, 100% {
+        opacity: 1;
+    }
+}
+
+.logo a.blink {
+    color: #ff98ad;
+    animation: blink 1.5s infinite;
+    background: unset;
+    -webkit-text-fill-color: unset;
+}

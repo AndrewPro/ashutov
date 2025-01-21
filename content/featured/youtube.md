@@ -56,7 +56,7 @@ We are passionate about technology and how it shapes our world. We create videos
 [Fireship](https://www.youtube.com/@Fireship)
 Code tutorials and tech news to help you ship your app faster
 
-{{< youtube GhIm-Dk1pzk >}}
+<!-- {{< youtube GhIm-Dk1pzk >}} -->
 
 [bycloud](https://www.youtube.com/@bycloudAI)
 Covers the latest AI tech/research papers for fun

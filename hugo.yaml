@@ -57,7 +57,7 @@ params:
     apple_touch_icon: "/favicon/apple-touch-icon.png"
 
   label:
-    text: "@Shutov"
+    text: "Shutov"
     icon: /apple-touch-icon.png
     iconHeight: 35
 

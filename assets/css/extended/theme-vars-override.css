@@ -1,0 +1,34 @@
+/* CSS Theme from https://dinhcap.dev/posts/gmktec-m5/ */
+
+:root {
+    --gap: 24px;
+    --content-gap: 20px;
+    --nav-width: 1024px;
+    --main-width: 880px;
+    --header-height: 60px;
+    --footer-height: 60px;
+    --radius: 8px;
+    --theme: rgb(255, 255, 255);
+
+}
+
+.dark {
+    --theme: rgb(34, 29, 28);
+    --entry: rgb(50, 42, 40);
+    --primary: rgb(255, 190, 152);
+    --secondary: rgb(196, 196, 197);
+    --tertiary: rgb(70, 66, 62);
+    --content: rgb(196, 196, 197);
+    --code-block-bg: rgb(28, 28, 35);
+    --code-bg: rgb(30, 30, 32);
+    --border: rgb(51, 51, 51);
+
+}
+
+.list {
+    background: var(--code-bg);
+}
+
+.dark.list {
+    background: var(--theme);
+}
