@@ -12,16 +12,15 @@ cover:
     hidden: true # only hide on current single page
 ---
 
-If you would like to join us, please feel free to! Both the Java and Bedrock versions are currently working. 
-We also have a discord server intergrated with the minecraft SRV paper plugin, if you would like to join, ask about it the comments.
+If you would like to join us, please feel free to! Both the Java and Bedrock versions are currently working.
+We also have a discord server integrated with the minecraft SRV paper plugin, if you would like to join, ask about it in the comments.
 
-There is a redirect to this page form `mc.shadeos.com` and `mc.ashutov.com`
 
 ## Panda
 
 #### Vanilla mc Server 1.21.4 
 
-- Created for family and clode freinds
+- Created for family and close freinds
 
 > **Java    ip :** `panda.shadeos.com`
 
